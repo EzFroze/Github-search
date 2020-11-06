@@ -12,4 +12,4 @@
 1. Установите [NodeJS](https://nodejs.org/en/), если он не установлен
 2. Скачайте проект: `git clone https://github.com/EzFroze/Github-search`
 3. Установите зависимости через терминал/командная строка: `npm install`
-4. Запустите проект: `npm run serve`
+4. Запустите проект: `npm run start`
